@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.list {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+}
+
+.para1 {
+  margin: 8px;
+  font-family: 'cursive';
+  color: grey;
+}

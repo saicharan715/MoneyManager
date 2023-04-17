@@ -1,0 +1,34 @@
+/* Write your CSS here */
+.your {
+  background-color: #84cc16;
+  border-radius: 15px;
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+}
+
+.icon {
+  height: 40px;
+  width: 40px;
+}
+
+.details {
+  display: flex;
+  justify-content: center;
+}
+
+.your1 {
+  background-color: #06b6d4;
+  border-radius: 15px;
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+}
+
+.your2 {
+  background-color: #7c3aed;
+  border-radius: 15px;
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+}
